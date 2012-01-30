@@ -1,0 +1,2 @@
+tag1: outguess
+  http://packages.debian.org/unstable/outguess pregexp:orig.tar.gz file:outguess_0.2.orig.tar.gz new: x:
